@@ -1,0 +1,27 @@
+{
+  "name": "possimusqui",
+  "version": "1.0.0",
+  "description": "metamask celo tx signer",
+  "main": "/lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaceyKreiger/possimusqui.git"
+  },
+  "keywords": [
+    "sint",
+    "nesciunt",
+    "aspernatur",
+    "quos",
+    "transaction",
+    "eth",
+    "ethereum"
+  ],
+  "author": "EliseoDooley",
+  "license": "ISC",
+  "dependencies": {
+    "@celo/contractkit": "^0.4.13"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
